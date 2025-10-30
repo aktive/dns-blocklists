@@ -1,2 +1,5 @@
-0.0.0.0 activation.sls.microsoft.com
 0.0.0.0 activate.microsoft.com
+0.0.0.0 activation.sls.microsoft.com
+0.0.0.0 activation.microsoft.com
+0.0.0.0 activation-v2.sls.microsoft.com
+0.0.0.0 licensing.mp.microsoft.com

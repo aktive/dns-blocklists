@@ -1,0 +1,12 @@
+0.0.0.0	windowsupdate.com
+0.0.0.0	download.microsoft.com
+0.0.0.0	wustat.windows.com
+0.0.0.0	ntservicepack.microsoft.com
+0.0.0.0	update.microsoft.com
+0.0.0.0	definitionupdates.microsoft.com
+0.0.0.0	prod.do.dsp.mp.microsoft.com
+0.0.0.0	dl.delivery.mp.microsoft.com
+0.0.0.0	delivery.mp.microsoft.com
+0.0.0.0	adl.windows.com
+0.0.0.0	tsfe.trafficshaping.dsp.mp.microsoft.com
+0.0.0.0	api.cdp.microsoft.com

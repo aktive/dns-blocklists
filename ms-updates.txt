@@ -13,3 +13,5 @@
 0.0.0.0 displaycatalog.mp.microsoft.com
 0.0.0.0 go.microsoft.com
 0.0.0.0 mp.microsoft.com
+0.0.0.0 windowsupdate.com
+0.0.0.0 download.microsoft.com

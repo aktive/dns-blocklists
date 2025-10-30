@@ -11,3 +11,5 @@
 0.0.0.0	tsfe.trafficshaping.dsp.mp.microsoft.com
 0.0.0.0	api.cdp.microsoft.com
 0.0.0.0 displaycatalog.mp.microsoft.com
+0.0.0.0 go.microsoft.com
+0.0.0.0 mp.microsoft.com

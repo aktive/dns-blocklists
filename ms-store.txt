@@ -1,0 +1,10 @@
+0.0.0.0	img-prod-cms-rt-microsoft-com.akamaized.net
+0.0.0.0	img-s-msn-com.akamaized.net
+0.0.0.0	livetileedge.dsx.mp.microsoft.com
+0.0.0.0	storeedgefd.dsx.mp.microsoft.com
+0.0.0.0	wns.windows.com
+0.0.0.0	storecatalogrevocation.storequality.microsoft.com
+0.0.0.0	manage.devcenter.microsoft.com
+0.0.0.0	displaycatalog.mp.microsoft.com
+0.0.0.0	share.microsoft.com
+0.0.0.0	manage.devcenter.microsoft.com

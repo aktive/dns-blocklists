@@ -1,0 +1,9 @@
+0.0.0.0 arc.msn.com
+0.0.0.0 ris.api.iris.microsoft.com
+0.0.0.0 api.msn.com
+0.0.0.0 assets.msn.com
+0.0.0.0 ntp.msn.com
+0.0.0.0 srtb.msn.com
+0.0.0.0 fd.api.iris.microsoft.com
+0.0.0.0 staticview.msn.com
+0.0.0.0 c.msn.com
